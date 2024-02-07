@@ -30,6 +30,9 @@ body {
 	height: 60px;
 	text-align: center;
 	h3 {color: #FFFFFF;} 
+	a:link {
+     		color: #FFFFFF;
+	}
 }
 .content {
 	background: #C3C3C3;
@@ -46,7 +49,4 @@ body {
 	height: 50px;
 	text-align: center;
 	h3 {color: #FFFFFF;} 
-}
-a:link {
-     color: #FFFFFF;
 }
