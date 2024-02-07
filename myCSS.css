@@ -18,7 +18,7 @@ body {
 	float: left;
 	width: 100%;
 	height: 80px;
-	 p{color: #FFFFFF;} 
+	p {color: #FFFFFF;} 
 	
 }
 .nav {
@@ -29,6 +29,7 @@ body {
 	width: 100%;
 	height: 60px;
 	text-align: center;
+	p{color: #FFFFFF;} 
 }
 .content {
 	background: #C3C3C3;
